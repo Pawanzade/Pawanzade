@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pawanzade
+- 👋 Hi, I’m Pawan
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning C# and DevOps
+- 🌱 I’m currently learning C# and python
 - 💞️ I’m looking to collaborate on C# and cloud engineering
 - 📫 How to reach me pwnshamzade@gmail.com
 
