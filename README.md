@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DevOps & Cloud DevOps**
 
-- 📫 How to reach me **zadepwn@gmail**
+- 📫 How to reach me **zadepwn@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
